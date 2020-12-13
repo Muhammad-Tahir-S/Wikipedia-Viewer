@@ -1,0 +1,16 @@
+#searchButton{
+  margin-top: 1%;
+}
+
+#searchTerm{
+  margin-top: 1%;
+}
+
+#searchOutput {
+  margin-top: 1%;
+}
+
+ul{
+  list-style-type: none;
+  margin-right: 3%;
+}
